@@ -6,11 +6,11 @@
 
 ### **Slajd 2: Wyzwanie (Startup vs Korpo)**
 
-"W Cogita stanąłem przed dylematem: Jak rosnąć i zachować energię startupu, nie stając się ociężałą korporacją? Czy procedury muszą zabijać innowacje? Czy musimy wybierać między stabilnością a prędkością?"
+"W Cogicie jako tech lead, stanąłem przed dylematem: Jak rosnąć i zachować energię startupu, nie stając się ociężałą korporacją? Czy procedury muszą zabijać innowacje? Czy musimy wybierać między stabilnością a prędkością?"
 
 ### **Slajd 3: Źródło (Accelerate)**
 
-"Nie będę opowiadał anegdot. Opieram się na książce 'Accelerate'. To badanie **23 tysięcy firm**. Wniosek jest jeden: Fizyka biznesu jest uniwersalna. Niezależnie czy produkujesz auta, czy kod – zasady są te same."
+"Nie będę opowiadał anegdot. Opieram się na książce 'Accelerate'. To badanie **ponad 2 tysięcy firm, na podstawie 23 000 zebranych ankiet**. Wniosek jest jeden: Fizyka biznesu jest uniwersalna. Niezależnie czy produkujesz auta, czy kod – zasady są te same."
 
 ### **Slajd 4: Fundament Lean (WIP, Wizualizacja, Monitoring)**
 
