@@ -1,3 +1,5 @@
+https://zurada.github.io/business-without-brakes/
+
 🚀 Biznes bez hamulców: Nauka o Przyspieszeniu
 ==============================================
 
