@@ -30,7 +30,7 @@
 
 ### **Slajd 7: Zmiana Modelu**
 
-"Wielkie, dwuletnie projekty umarły. Dziś wygrywają **małe zespoły** i **krótkie cykle**. Wygrywa ten, kto szybciej się uczy, a nie ten, kto ma lepszy plan."
+"Wielkie, dwuletnie projekty umarły. Dziś wygrywają **małe zespoły** i **krótkie cykle**. Wygrywa ten, kto szybciej się uczy, a nie ten, kto ma lepszy plan. Zespół powinien być max 6-8 osób, tyle ile naje się dwiema pizzami (pomysł Jeffa Bezosa)"
 
 ### **Slajd 8: Co przyspieszyć (4 Obszary)**
 
