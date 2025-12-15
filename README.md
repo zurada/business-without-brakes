@@ -54,9 +54,7 @@ Prezentacja obala popularne mity biznesowe i wprowadza naukowe podejście do zar
     
 5.  **Paradoks Skalowania:** Dlaczego tradycyjne firmy zwalniają wraz ze wzrostem, a High Performers przyspieszają (nieliniowy wzrost).
     
-6.  **Wzór Kingmana:** Matematyczny dowód na to, dlaczego 100% utylizacji pracowników oznacza 0% przepływu pracy.
-    
-7.  **Prawo Conwaya:** Jak struktura komunikacji wpływa na architekturę produktu.
+6.  **Prawo Conwaya:** Jak struktura komunikacji wpływa na architekturę produktu.
     
 
 📚 Źródła
@@ -74,4 +72,4 @@ Prezentacja obala popularne mity biznesowe i wprowadza naukowe podejście do zar
 📄 Licencja
 -----------
 
-Projekt udostępniony na licencji MIT. Możesz dowolnie modyfikować treść i kod do własnych potrzeb edukacyjnych i biznesowych.
+Projekt udostępniony na licencji Apache 2.0. Możesz dowolnie modyfikować treść i kod do własnych potrzeb edukacyjnych i biznesowych.
