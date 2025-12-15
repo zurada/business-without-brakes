@@ -6,7 +6,7 @@
 
 ### **Slajd 2: Wyzwanie (Startup vs Korpo)**
 
-"W Cogicie jako tech lead, stanąłem przed dylematem: Jak rosnąć i zachować energię startupu, nie stając się ociężałą korporacją? Czy procedury muszą zabijać innowacje? Czy musimy wybierać między stabilnością a prędkością?"
+"W Cogicie jako tech lead, będę przez kolejne miesiące stawał przed dylematem: Jak rosnąć i zachować energię startupu, nie stając się ociężałą korporacją? Czy procedury muszą zabijać innowacje? Czy musimy wybierać między stabilnością a prędkością?"
 
 ### **Slajd 3: Źródło (Accelerate)**
 
