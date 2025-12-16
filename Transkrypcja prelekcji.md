@@ -2,7 +2,7 @@
 
 ### **Slajd 1: Tytuł (Biznes bez hamulców)**
 
-"Dzień dobry. Większość firm traci pieniądze, bo zarządza na intuicję. To, co nazywamy 'bezpieczną kontrolą', w rzeczywistości jest zaciągniętym hamulcem ręcznym. Dziś pokażę Wam dowody, jak ten hamulec zwolnić i przyspieszyć. Moja prezentacja trwa okolo 30 minut i sklada sie z okolo 30 slajdów. Dla zainteresowanych mogę wysłać link do prezentacji, dostępna online. na końcu zadam tez wam 5 pytań i przjedziemy do Q&A"
+"Dzień dobry. Większość firm traci pieniądze, bo zarządza na intuicję. To, co nazywamy 'bezpieczną kontrolą', w rzeczywistości jest zaciągniętym hamulcem ręcznym. Dziś pokażę Wam dowody, jak ten hamulec zwolnić i przyspieszyć rozwój firmy. Moja prezentacja trwa okolo 30 minut i sklada sie z okolo 30 slajdów. Dla zainteresowanych mogę wysłać link do prezentacji, dostępna online. na końcu zadam tez wam 5 pytań i przjedziemy do Q&A"
 
 ### **Slajd 2: Wyzwanie (Startup vs Korpo)**
 
