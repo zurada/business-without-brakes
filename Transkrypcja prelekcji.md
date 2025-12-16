@@ -10,7 +10,7 @@
 
 ### **Slajd 3: Źródło (Accelerate)**
 
-"Nie będę opowiadał anegdot. Opieram się na książce 'Accelerate'. To badanie **ponad 2 tysięcy firm, na podstawie 23 000 zebranych ankiet**. Wniosek jest jeden: Fizyka biznesu jest uniwersalna. Niezależnie czy produkujesz auta, czy kod – zasady są te same."
+"Nie będę opowiadał anegdot. Opieram się na książce 'Accelerate'. To badanie **ponad 2 tysięcy firm, na podstawie 23 000 zebranych ankiet**. Wniosek jest jeden: Fizyka biznesu jest uniwersalna. Niezależnie czy produkujesz auta, czy jestes prawnikiem – zasady są te same."
 
 ### **Slajd 4: Fundament Lean (WIP, Wizualizacja, Monitoring)**
 
