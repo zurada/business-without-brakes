@@ -51,7 +51,15 @@
 
 ### **Slajd 12: DevOps (Wprowadzenie)**
 
-"Rozwiązaniem jest DevOps. Liczby: **47% prezesów** czuje presję na cyfryzację. Ale **31% firm** nie ma nawet podstaw. Najgorsze jest to, że zarząd zazwyczaj myśli, że jest super, a inżynierowie widzą chaos."
+"Rozwiązaniem jest DevOps. 
+ W raporcie Forrestera z 2017 r. zauważono, że
+31% organizacji w przemyśle nie wykorzystuje praktyk i zasad uznawanych
+powszechnie za niezbędne do przyspieszania transformacji technologicznej (czyli zdolności orędowanych przez ruch DevOps). 
+
+Wiemy też jednak, że przekształcenia technologii
+i oprogramowania stanowią obecnie kluczowy aspekt organizacji. W wyniku badań niedawno przeprowadzonych przez firmę Gartner stwierdzono, że
+47% dyrektorów generalnych podlega naciskom ze strony zarządu w kwestii
+transformacji cyfrowej (Panetta, 2017).
 
 ### **Slajd 13: 4 Filary DevOps**
 
